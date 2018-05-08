@@ -11,12 +11,12 @@ $bootstrap-sass-asset-helper: false !default;
 
 $gray-base:              #000 !default;
 $gray-darker:            lighten($gray-base, 13.5%) !default;
-$gray-dark:              #333 !default;
-$gray:                   #555 !default;
+$gray-dark:              #111 !default;
+$gray:                   #222 !default;
 $gray-light:             #767676 !default;
 $gray-lighter:           lighten($gray-base, 93.5%) !default;
 
-$brand-primary:         #0F7EB2 !default;
+$brand-primary:         #36C !default;
 $brand-success:         #008a00 !default; //#5cb85c !default;
 $brand-info:            #008489 !default; // #5bc0de !default;
 $brand-warning:         #a76501 !default; // #f0ad4e !default;
@@ -52,7 +52,7 @@ $link-hover-decoration: underline !default;
 //
 //## Font, line-height, and color for body text, headings, and more.
 
-$font-family-sans-serif:  "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$font-family-sans-serif:  "Helvetica Neue", Helvetica, Arial, sans-serif !default;
 $font-family-serif:       Georgia, "Times New Roman", Times, serif !default;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
 $font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace !default;
