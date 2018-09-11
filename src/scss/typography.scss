@@ -53,7 +53,7 @@ h2,
   letter-spacing: -.5px;
 }
 
-.captionImage {
+.captionImage { // sass-lint:disable-line class-name-format
   border-bottom: 2px solid $gray-lighter;
 
   p {
