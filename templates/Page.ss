@@ -26,6 +26,6 @@
         <% require javascript('//code.jquery.com/jquery-1.7.2.min.js') %>
         <% require javascript('themes/starter/dist/js/main.js') %>
         <% require javascript('themes/watea/dist/js/main.js') %>
-        <% include GoogleAnalytics %>
+        <!-- % include GoogleAnalytics % -->
     </body>
 </html>
