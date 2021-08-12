@@ -5,7 +5,7 @@
   "keywords": ["silverstripe", "theme", "cwp"],
   "license": "BSD-3-Clause",
   "require": {
-    "cwp/starter-theme": "2.x-dev"
+    "dia-nz/starter-theme": "1.1.1"
   },
   "repositories": [
     {
